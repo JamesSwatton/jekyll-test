@@ -1,5 +1,5 @@
-url: "jamesswatton.github.io"
-# baseurl: "jekyll-test"
+# url: "jamesswatton.github.io"
+baseurl: "jekyll-test"
 
 plugins:
   - jekyll-feed
